@@ -5,4 +5,3 @@ Organize CV related knowledge
 - Shopee product image classification
 - [Use image generator to enhance Alexnet performance(add robustness)](https://github.com/AbandonBlue/cv-overview/tree/main/image-generator-alexnet)
 - [Pneumonia detection](https://github.com/AbandonBlue/cv-overview/tree/main/pneumonia-detection)
-- 
